@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  BSCS ’26 @ FAST-Islamabad &nbsp;•&nbsp; AI ▸ Blockchain ▸ Market Research  
+  BSCS ’26 @ FAST-Islamabad &nbsp;-&nbsp; Web Dev ▸ AI ▸ Blockchain  
   <br/>
   Currently shipping <strong>NexaFund</strong> – a fraud-resistant crowdfunding dApp (FYP capstone).
 </p>
@@ -20,20 +20,19 @@
   <a href="https://komarev.com/ghpvc/?username=shabihassan1&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=shabihassan1&style=for-the-badge"></a>
 </p>
 
----
-
 ## 🧭 About Me
-```diff
-+ ⚡ Third-year CS student who likes hard problems more than hard deadlines.
-+ 🏗️ Prototyping NexaFund (Polygon L2) to make crowdfunding safer & fairer.
-+ 🤖 RAG & LLM tinkerer – built HarmonyBot, an emotionally-aware mental-health companion.
-+ 🌱 Currently deep-diving into:
-    • zk-EVMs & account-abstraction
-    • multi-modal retrieval for customer-support chatbots
-+ 🎯 Goal for 2025: merge AI + Web3 into a startup-grade SaaS.
-````
 
----
+Hey there! 👋 I'm **Syed Shabi-ul-Hassan**, a final-year Computer Science student at FAST Islamabad, deeply fascinated by challenges at the intersection of **AI and Blockchain**.
+
+I'm currently prototyping **NexaFund**, a secure and fair crowdfunding dApp built on Polygon L2, while also exploring the world of **Retrieval-Augmented Generation (RAG)** and large language models—like **HarmonyBot**, an emotionally-aware chatbot I developed for mental health support.
+
+When I’m not coding, you'll find me diving into:
+- 🔍 **zk-EVMs** & **Account Abstraction** for better blockchain scalability.
+- 📚 **Multi-modal retrieval systems** to transform customer-support chatbots.
+
+🚀 My big goal for 2025? Launching a startup-grade SaaS platform that elegantly combines the power of **AI & Web3**.
+
+
 ## 🛠️ Tech Toolbox
 <!-- 💠 TECHNOLOGY BANNER (render-safe icons) -->
 <div align="center">
@@ -68,6 +67,8 @@
 
 </div>
 
+---
+
 
 <!-- ────────  BADGE TABLE  ──────── -->
 | Category | Tools & Technologies |
@@ -80,15 +81,14 @@
 | **Business & Productivity** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge) |
 
 
-
 ## 🚀 Featured Projects
 
-| Project                        | Tech                                      | What it does                                                                 |
-| ------------------------------|-------------------------------------------|------------------------------------------------------------------------------|
-| **NexaFund**                  | Solidity · React · Polygon                | Crowdfunding with layered, rule-based fraud detection (FYP capstone).       |
-| **Campus Sphere**             | Next.js · NestJS · PostgreSQL             | University management platform to handle societies, events, and feedback.   |
-| **HarmonyBot v1**             | Python · HuggingFace · ElevenLabs         | Emotion-aware chatbot for mental-health support.                            |
-| **Instagram Reach Forecaster**| Python · SARIMA                           | Predicts social-media reach & engagement for brand planners.                |
+| Project                        | Tech Stack                                                                                                                   | What it does                                                                                              |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **NexaFund**                  | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Polygon](https://img.shields.io/badge/Polygon-8247E5?logo=polygon&logoColor=white) | A decentralized crowdfunding platform with smart contract–based fund release, fraud scoring, and investor voting. |
+| **Campus Sphere**             | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | A university management system enabling student society discovery, event tracking, and real-time feedback collection. |
+| **HarmonyBot v1**             | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?logo=huggingface&logoColor=black) | An emotionally-aware conversational bot that uses sentiment analysis for mental health support. |
+| **Instagram Reach Forecaster**| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SARIMA](https://img.shields.io/badge/SARIMA-003366?style=for-the-badge) | A time-series modeling tool that forecasts future Instagram performance metrics for social media planning. |
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=shabihassan1&show_icons=true&theme=transparent&hide_title=true&count_private=true">
@@ -99,7 +99,7 @@
   </a>
 </p>
 
----
+
 
 ## 🤝 Let’s Collaborate
 
