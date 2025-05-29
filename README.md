@@ -36,42 +36,92 @@
 ---
 ## 🛠️ Tech Toolbox
 
-<p align="center">
-  <strong>🔤 Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,solidity,bash,rust,go&perline=8" alt="Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>🖥 Frameworks & Libraries</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,fastapi,django,tailwind,vite,redux,langchain&perline=11" alt="Frameworks & Libraries" />
-</p>
+### 🔤 Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
 
-<p align="center">
-  <strong>🤖 AI & Data</strong><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,transformers,pandas,numpy,matplotlib,seaborn&perline=8" alt="AI & Data" />
-</p>
+</div>
 
-<p align="center">
-  <strong>🌐 Blockchain</strong><br>
-  <img src="https://skillicons.dev/icons?i=ethereum,polygon,hardhat,truffle,ethers,web3js,metamask,openzeppelin,chainlink&perline=8" alt="Blockchain" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>☁️ Cloud & DevOps</strong><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,vercel,mongodb,postgres,mysql,redis,dynamodb&perline=10" alt="Cloud & DevOps" />
-</p>
+### 🖥 Frameworks & Libraries  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/langchain.svg" height="40" alt="LangChain"/>
 
-<p align="center">
-  <strong>📈 Business & Productivity</strong><br>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau,figma,notion,trello,jira,slack&perline=8" alt="Business & Productivity" />
-</p>
+</div>
 
-<sub>
-  Tip: for a light-themed palette append <code>&theme=light</code> to any URL.<br>
-  See full icon list → <https://github.com/tandpfun/skill-icons#icons-list>
-</sub>
+<div align="center">
 
----
+### 🤖 AI & Data  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
+
+</div>
+
+<div align="center">
+
+### 🌐 Blockchain  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="Ethereum"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/polygon.svg" height="40" alt="Polygon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/hardhat.svg" height="40" alt="Hardhat"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/truffle.svg" height="40" alt="Truffle"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/ethers.svg" height="40" alt="Ethers.js"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/web3dotjs.svg" height="40" alt="Web3.js"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/metamask.svg" height="40" alt="MetaMask"/>
+
+</div>
+
+<div align="center">
+
+### ☁️ Cloud & DevOps  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+
+</div>
+
+<div align="center">
+
+### 📈 Business & Productivity  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/excel.svg" height="40" alt="Excel"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/powerbi.svg" height="40" alt="Power BI"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/tableau.svg" height="40" alt="Tableau"/>
+
+</div>
+
+<sub>Need a light palette? Add <code>&color=black</code> to any <em>simple-icons</em> URL.</sub>
+
 
 ## 🚀 Featured Projects
 
