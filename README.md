@@ -1,6 +1,6 @@
 <!-- ──────────────────────  HERO  ────────────────────── -->
 <h1 align="center">
-  سلام، I’m <span style="color:#14B8A6;">Syed Shabi-ul-Hassan</span> - Red King 👑
+   I’m <span style="color:#14B8A6;">Syed Shabi-ul-Hassan</span> 
 </h1>
 
 <p align="center">
@@ -35,112 +35,75 @@
 
 ---
 ## 🛠️ Tech Toolbox
-
+<!-- 💠 TECHNOLOGY BANNER (render-safe icons) -->
 <div align="center">
 
-### 🔤 Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
+  <!-- Core Languages -->
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png"   alt="Python"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript"/>
+
+  <!-- Web / Backend -->
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png"     alt="React"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png"   alt="Next.js"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nest_js.png"   alt="NestJS"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png"   alt="Node.js"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png"   alt="Express"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.png"    alt="Django"/>
+
+  <!-- AI / Data -->
+  <img height="42" src="https://opensource.fb.com/img/projects/pytorch-dark-background.png"   alt="PyTorch"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png"alt="TensorFlow"/>
+
+  <!-- Blockchain -->
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/solidity.png"  alt="Solidity"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ethereum.png"  alt="Ethereum"/>
+  <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polygon_Icon.svg/800px-Polygon_Icon.svg.png"   alt="Polygon"/>
+
+  <!-- DevOps / DB -->
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png"    alt="Docker"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png"       alt="AWS"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png"alt="Kubernetes"/>
+  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png"alt="PostgreSQL"/>
 
 </div>
 
-<div align="center">
 
-### 🖥 Frameworks & Libraries  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/langchain.svg" height="40" alt="LangChain"/>
+<!-- ────────  BADGE TABLE  ──────── -->
+| Category | Tools & Technologies |
+|----------|----------------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge) |
+| **Frameworks / Libraries** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white&style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge) |
+| **AI & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge) |
+| **Blockchain Stack** | ![Hardhat](https://img.shields.io/badge/Hardhat-FCC72B?logo=ethereum&logoColor=black&style=for-the-badge) ![Truffle](https://img.shields.io/badge/Truffle-3C2C3E?logo=truffle&logoColor=white&style=for-the-badge) ![Ethers.js](https://img.shields.io/badge/Ethers.js-1C1C1C?logo=ethers&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white&style=for-the-badge) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge) |
+| **Business & Productivity** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge) |
 
-</div>
-
-<div align="center">
-
-### 🤖 AI & Data  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
-
-</div>
-
-<div align="center">
-
-### 🌐 Blockchain  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="Ethereum"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/polygon.svg" height="40" alt="Polygon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/hardhat.svg" height="40" alt="Hardhat"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/truffle.svg" height="40" alt="Truffle"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/ethers.svg" height="40" alt="Ethers.js"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/web3dotjs.svg" height="40" alt="Web3.js"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/metamask.svg" height="40" alt="MetaMask"/>
-
-</div>
-
-<div align="center">
-
-### ☁️ Cloud & DevOps  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-
-</div>
-
-<div align="center">
-
-### 📈 Business & Productivity  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/excel.svg" height="40" alt="Excel"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/powerbi.svg" height="40" alt="Power BI"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/tableau.svg" height="40" alt="Tableau"/>
-
-</div>
-
-<sub>Need a light palette? Add <code>&color=black</code> to any <em>simple-icons</em> URL.</sub>
 
 
 ## 🚀 Featured Projects
 
-| Project                        | Tech                              | What it does                                                          |
-| ------------------------------ | --------------------------------- | --------------------------------------------------------------------- |
-| **NexaFund**                   | Solidity · React · Polygon        | Crowdfunding with layered, rule-based fraud detection (FYP capstone). |
-| **HarmonyBot v1**              | Python · HuggingFace · ElevenLabs | Emotion-aware chatbot for mental-health support.                      |
-| **Instagram Reach Forecaster** | Python · SARIMA                   | Predicts social-media reach & engagement for brand planners.          |
+| Project                        | Tech                                      | What it does                                                                 |
+| ------------------------------|-------------------------------------------|------------------------------------------------------------------------------|
+| **NexaFund**                  | Solidity · React · Polygon                | Crowdfunding with layered, rule-based fraud detection (FYP capstone).       |
+| **Campus Sphere**             | Next.js · NestJS · PostgreSQL             | University management platform to handle societies, events, and feedback.   |
+| **HarmonyBot v1**             | Python · HuggingFace · ElevenLabs         | Emotion-aware chatbot for mental-health support.                            |
+| **Instagram Reach Forecaster**| Python · SARIMA                           | Predicts social-media reach & engagement for brand planners.                |
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=shabihassan1&show_icons=true&theme=transparent&hide_title=true&count_private=true"><img height="165" src="https://github-readme-stats.vercel.app/api?username=shabihassan1&show_icons=true&theme=dark&hide_title=true&count_private=true"/></a>
-  <a href="https://streak-stats.demolab.com?user=shabihassan1&theme=dark&hide_border=true"><img height="165" src="https://streak-stats.demolab.com?user=shabihassan1&theme=dark&hide_border=true"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=shabihassan1&show_icons=true&theme=transparent&hide_title=true&count_private=true">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shabihassan1&show_icons=true&theme=dark&hide_title=true&count_private=true"/>
+  </a>
+  <a href="https://streak-stats.demolab.com?user=shabihassan1&theme=dark&hide_border=true">
+    <img height="165" src="https://streak-stats.demolab.com?user=shabihassan1&theme=dark&hide_border=true"/>
+  </a>
 </p>
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-*Open to AI-powered RAG systems, Solidity audits, or data-driven market-research gigs.*
+*Open to AI-powered RAG systems, Solidity audits, or data-driven market-research.*
 DM on **LinkedIn**, or email me—let’s build something impactful 🚀
 
 <p align="center">“If it isn’t challenging, it isn’t worth building.”</p>
