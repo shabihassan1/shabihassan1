@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  BSCS ’26 @ FAST-Islamabad &nbsp;-&nbsp; Web Dev ▸ AI ▸ Blockchain  
+  BSCS ’25 @ FAST-Islamabad &nbsp;-&nbsp; Web Dev ▸ AI ▸ Blockchain  
   <br/>
   Currently shipping <strong>NexaFund</strong> – a fraud-resistant crowdfunding dApp (FYP capstone).
 </p>
