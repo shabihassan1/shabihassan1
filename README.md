@@ -32,42 +32,37 @@ When I’m not coding, you'll find me diving into:
 
 🚀 My big goal for 2025? Launching a startup-grade SaaS platform that elegantly combines the power of **AI & Web3**.
 
-
 ## 🛠️ Tech Toolbox
-<!-- 💠 TECHNOLOGY BANNER (render-safe icons) -->
-<div align="center">
 
+<p align="center">
   <!-- Core Languages -->
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png"   alt="Python"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" alt="TypeScript" width="42" />
 
   <!-- Web / Backend -->
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png"     alt="React"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png"   alt="Next.js"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nest_js.png"   alt="NestJS"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png"   alt="Node.js"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png"   alt="Express"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.png"    alt="Django"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" alt="Next.js" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nest_js.png" alt="NestJS" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" alt="Node.js" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" alt="Express" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.png" alt="Django" width="42" />
 
   <!-- AI / Data -->
-  <img height="42" src="https://opensource.fb.com/img/projects/pytorch-dark-background.png"   alt="PyTorch"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png"alt="TensorFlow"/>
+  <img src="https://opensource.fb.com/img/projects/pytorch-dark-background.png" alt="PyTorch" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" alt="TensorFlow" width="42" />
 
   <!-- Blockchain -->
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/solidity.png"  alt="Solidity"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ethereum.png"  alt="Ethereum"/>
-  <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polygon_Icon.svg/800px-Polygon_Icon.svg.png"   alt="Polygon"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/solidity.png" alt="Solidity" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ethereum.png" alt="Ethereum" width="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polygon_Icon.svg/800px-Polygon_Icon.svg.png" alt="Polygon" width="42" />
 
   <!-- DevOps / DB -->
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png"    alt="Docker"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png"       alt="AWS"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png"alt="Kubernetes"/>
-  <img height="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png"alt="PostgreSQL"/>
-
-</div>
-
----
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" alt="Kubernetes" width="42" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" width="42" />
+</p>
 
 
 <!-- ────────  BADGE TABLE  ──────── -->
