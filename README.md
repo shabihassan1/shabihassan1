@@ -6,7 +6,6 @@
 <p align="center">
   BSCS ’25 @ FAST-Islamabad &nbsp;-&nbsp; Web Dev ▸ AI ▸ Blockchain  
   <br/>
-  Currently shipping <strong>NexaFund</strong> – a fraud-resistant crowdfunding dApp (FYP capstone).
 </p>
 
 <p align="center">
@@ -99,6 +98,6 @@ When I’m not coding, you'll find me diving into:
 ## 🤝 Let’s Collaborate
 
 *Open to AI-powered RAG systems, Solidity audits, or data-driven market-research.*
-DM on **LinkedIn**, or email me—let’s build something impactful 🚀
+DM on **LinkedIn**, or email me. Let’s build something impactful 🚀
 
 <p align="center">“If it isn’t challenging, it isn’t worth building.”</p>
