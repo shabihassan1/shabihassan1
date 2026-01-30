@@ -85,16 +85,6 @@ I help teams ship **reliable, production-grade software** fast, with a strong fo
 | **FlowCRM** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-0F172A?style=for-the-badge) | CRM + sales automation: pipeline management, AI lead scoring (explainable), follow-up sequences, dedupe/enrichment, and conversion reporting. |
 | **Competitive Research Console** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Dashboards](https://img.shields.io/badge/Dashboards-111827?style=for-the-badge) | Market intel system: ingests sources on a schedule, extracts sentiment/topics, tracks competitors, and generates evidence-backed dashboards + alerts. |
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=shabihassan1&show_icons=true&theme=transparent&hide_title=true&count_private=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shabihassan1&show_icons=true&theme=dark&hide_title=true&count_private=true"/>
-  </a>
-  <a href="https://streak-stats.demolab.com?user=shabihassan1&theme=dark&hide_border=true">
-    <img height="165" src="https://streak-stats.demolab.com?user=shabihassan1&theme=dark&hide_border=true"/>
-  </a>
-</p>
-
-
 
 ## 🤝 Contact
 
