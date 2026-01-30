@@ -4,32 +4,33 @@
 </h1>
 
 <p align="center">
-  BSCS ’25 @ FAST-Islamabad &nbsp;-&nbsp; Web Dev ▸ AI ▸ Blockchain  
+   Full-Stack Engineer ▸ AI Integration Engineer
   <br/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&height=45&lines=Coding+Solidity+smart+contracts;Building+RAG+pipelines+with+LangChain;Mining+insights+from+market+data;Shipping+full-stack+dApps;Always+learning+new+tech" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=650&height=45&lines=Shipping+Next.js+products+end-to-end;Building+RAG+assistants+with+vector+search+%2B+evals;Designing+clean+APIs+in+Node%2FNest+%26+Python%2FFastAPI;Automation+via+webhooks%2C+queues%2C+integrations;Security%2C+performance%2C+and+cost-aware+LLMOps" alt="Typing SVG">
 </p>
 
 <!-- ──────────────────────  CONTACT  ────────────────────── -->
 <p align="center">
   <a href="mailto:shabiulhassan2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shabi-ul-hassan1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://komarev.com/ghpvc/?username=shabihassan1&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=shabihassan1&style=for-the-badge"></a>
 </p>
 
-## 🧭 About Me
 
-Hey there! 👋 I'm **Syed Shabi-ul-Hassan**, a final-year Computer Science student at FAST Islamabad, deeply fascinated by challenges at the intersection of **AI and Blockchain**.
+## 🧭 What I Do
 
-I'm currently prototyping **NexaFund**, a secure and fair crowdfunding dApp built on Polygon L2, while also exploring the world of **Retrieval-Augmented Generation (RAG)** and large language models—like **HarmonyBot**, an emotionally-aware chatbot I developed for mental health support.
+I help teams ship **reliable, production-grade software** fast, with a strong focus on **clean architecture, security, and maintainability**.
 
-When I’m not coding, you'll find me diving into:
-- 🔍 **zk-EVMs** & **Account Abstraction** for better blockchain scalability.
-- 📚 **Multi-modal retrieval systems** to transform customer-support chatbots.
+**Clients typically bring me in for:**
+- **Full-Stack SaaS:** Next.js/React, Tailwind, dashboards, role-based access, Stripe-style billing flows
+- **Backends & APIs:** Node/Nest/Express + Python/FastAPI, auth, validation, background jobs, queues
+- **AI Features:** RAG assistants, embeddings + vector DB, tool/function calling, prompt/versioning, evals
+- **Automation & Integrations:** webhooks, third-party APIs, ETL-style pipelines, monitoring & retries
+- **Computer Vision / Image Analysis:** practical CV pipelines for detection/inspection/enhancement use-cases
+- **Web3 (when needed):** Solidity contracts, Ethers.js integrations, audits/cleanup for safety
 
-🚀 My big goal for 2025? Launching a startup-grade SaaS platform that elegantly combines the power of **AI & Web3**.
 
 ## 🛠️ Tech Toolbox
 
@@ -77,12 +78,12 @@ When I’m not coding, you'll find me diving into:
 
 ## 🚀 Featured Projects
 
-| Project                        | Tech Stack                                                                                                                   | What it does                                                                                              |
+| Project | Tech Stack | What it does |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| **NexaFund**                  | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Polygon](https://img.shields.io/badge/Polygon-8247E5?logo=polygon&logoColor=white) | A decentralized crowdfunding platform with smart contract–based fund release, fraud scoring, and investor voting. |
-| **Campus Sphere**             | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | A university management system enabling student society discovery, event tracking, and real-time feedback collection. |
-| **HarmonyBot v1**             | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?logo=huggingface&logoColor=black) | An emotionally-aware conversational bot that uses sentiment analysis for mental health support. |
-| **Instagram Reach Forecaster**| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SARIMA](https://img.shields.io/badge/SARIMA-003366?style=for-the-badge) | A time-series modeling tool that forecasts future Instagram performance metrics for social media planning. |
+| **AgentFlow** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge) | Multi-tenant platform to build, test, and deploy AI support agents: visual workflows, knowledge base, human handoff, and analytics. |
+| **Semantic Search** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) | Secure document Q&A with citations: upload PDFs/DOCX, index + hybrid retrieval, chat grounded in sources, and eval hooks for reliability. |
+| **FlowCRM** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-0F172A?style=for-the-badge) | CRM + sales automation: pipeline management, AI lead scoring (explainable), follow-up sequences, dedupe/enrichment, and conversion reporting. |
+| **Competitive Research Console** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Dashboards](https://img.shields.io/badge/Dashboards-111827?style=for-the-badge) | Market intel system: ingests sources on a schedule, extracts sentiment/topics, tracks competitors, and generates evidence-backed dashboards + alerts. |
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=shabihassan1&show_icons=true&theme=transparent&hide_title=true&count_private=true">
@@ -95,9 +96,14 @@ When I’m not coding, you'll find me diving into:
 
 
 
-## 🤝 Let’s Collaborate
+## 🤝 Contact
 
-*Open to AI-powered RAG systems, Solidity audits, or data-driven market-research.*
-DM on **LinkedIn**, or email me. Let’s build something impactful 🚀
+If you want to discuss a build, email me with:
+- what you’re building + who it’s for
+- current stack (if any)
+- timeline + constraints
+- success metrics (what “done” looks like)
 
-<p align="center">“If it isn’t challenging, it isn’t worth building.”</p>
+📩 **shabiulhassan2003@gmail.com**
+
+<p align="center"><i>Build systems that are easy to change — not just easy to ship.</i></p>
